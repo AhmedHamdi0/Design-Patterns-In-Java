@@ -1,4 +1,4 @@
-package Strategy;
+package Strategy.Math;
 
 public class StrategyMain {
     public static void main(String[] args) {

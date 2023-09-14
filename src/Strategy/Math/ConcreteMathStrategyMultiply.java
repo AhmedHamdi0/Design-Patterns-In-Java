@@ -1,4 +1,4 @@
-package Strategy;
+package Strategy.Math;
 
 public class ConcreteMathStrategyMultiply implements MathStrategy{
     @Override
